@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Besides, we will calculate the total price of items for each product and the total price of the whole Shopping Cart.
+One of the most common business in Internet nowadays are online shops. Websites like Amazon win each year millions of dollars selling all kind of articles to their users. All this websites have something in common: they have a shopping cart.
+
+We will create a the Ironhack Cart, where the users will be able to add and remove products to a shopping cart. Besides, we will calculate the total price of items for each product and the total price of the whole Shopping Cart.
 
 ## Exercise
 
