@@ -1,6 +1,8 @@
-# DOM Exercise: The Ironhack Cart
+![](https://i.imgur.com/1QgrNNw.png)
 
-## Introduction to 'The Ironhack Cart'
+# DOM | The Ironhack Cart
+
+## Introduction
 
 Besides, we will calculate the total price of items for each product and the total price of the whole Shopping Cart.
 
