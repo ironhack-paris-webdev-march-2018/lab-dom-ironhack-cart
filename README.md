@@ -92,9 +92,9 @@ We have two inputs that represents the name and the unit price of the new produc
 	- Get the data from the inputs.
 	- Create a new product row with the data we stored.
 
-:::warning
-:warning: Be sure the new product you added has the same behavior than the prefixed products.
-- You can calculate the product total price
-- You can sum the product total price to the Shopping Cart total price
-- You can delete the product
-:::
+	:::warning
+	:warning: Be sure the new product you added has the same behavior than the previous products.
+	- You should be able to calculate the product total price
+	- You should be able to sum the product total price to the Shopping Cart total price
+	- You should be able to delete the product
+	:::
