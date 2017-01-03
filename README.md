@@ -112,8 +112,10 @@ We have two inputs that represent the name and the unit price of the new product
 	- Create a new product row with the data we stored.
 
 :::warning
+
 :warning: Be sure the new product you added has the same behavior than the previous products.
 - You should be able to calculate the product total price
 - You should be able to sum the product total price to the Shopping Cart total price
 - You should be able to delete the product
+
 :::
