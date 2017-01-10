@@ -2,6 +2,14 @@
 
 # DOM | The Ironhack Cart
 
+## Learning Goals
+
+After this learning unit, you will be able to:
+
+- Understand what the DOM is
+- Manipulate the DOM to edit elements
+
+
 ## Introduction
 
 One of the most common business in Internet nowadays are online shops. Websites like Amazon win each year millions of dollars selling all kind of articles to their users. All this websites have something in common: they have a shopping cart.
